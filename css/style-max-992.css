@@ -1,0 +1,20 @@
+.main {
+
+	height: 60vh;
+	flex-basis: 60%;
+}
+
+.sidebar-first {
+	height: 60vh;
+	flex-basis: 20%;
+
+}
+
+.sidebar-second {
+	height: 60vh;
+	flex-basis: 20%;
+}
+
+.footer {
+	margin-bottom: 20vh;
+}

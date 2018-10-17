@@ -1,0 +1,34 @@
+.header {
+	height: 10vh;
+}
+
+
+.footer {
+
+	height: 10vh;
+}
+
+.columns {
+	min-height: 100vh;
+	flex-direction: column;
+
+
+}
+
+.main {
+
+	background: skyblue;
+	height: 30%;
+}
+
+.sidebar-first {
+	width: 100;
+	height: 0%;
+	order: 3
+}
+
+.sidebar-second {
+	width: 100%;
+	height: 30vh;
+
+}
